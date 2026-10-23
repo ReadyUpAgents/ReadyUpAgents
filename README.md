@@ -21,6 +21,7 @@ Every template runs in your own n8n with your own Gmail and OpenAI credentials. 
 
 - Website: [readyupagents.com](https://readyupagents.com)
 - Templates: [readyup.gumroad.com](https://readyup.gumroad.com)
+- Game dev templates on itch.io: [readyupagents.itch.io](https://readyupagents.itch.io)
 - Setup videos: [YouTube @ReadyUpAgents](https://www.youtube.com/@ReadyUpAgents)
 - Updates: [X @ReadyUpAgents](https://x.com/ReadyUpAgents)
 
